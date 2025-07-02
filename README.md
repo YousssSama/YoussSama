@@ -8,23 +8,14 @@
 
 ### 🧠 About Me
 
-Currently in my first year of engineering school after two years of integrated preparatory classes, I specialize in:
+Currently in my second year of engineering school after two years of integrated preparatory classes, I specialize in:
 
 - **Internet of Things (IoT)**  
 - **Cybersecurity & Cryptography**  
 - **Web and Software Development**  
 - **Database Systems & Data Engineering**
 
-I am driven by a deep interest in **cutting-edge technologies** and their impact on the world. In the short term, I aim to gain experience in a major tech company 👨‍💻, and in the long term, I aspire to work as a **freelancer** or launch my own **startup internationally** 🚀.
-
----
-
-### 🌱 What Sets Me Apart
-
-- 📡 Built a smart monitoring system to protect *petrel nesting sites*, in partnership with the **Parc National de La Réunion**, using LoRa sensors, Flask, and dashboards.
-- 📦 Completed a 1-month internship in a wholesale company: gained experience in logistics, invoicing, inventory management, and customer service.
-- 🧩 Developed strong **project management** and **client interaction** skills.
-- 🌐 Fluent in English (B2) and beginner in Spanish.
+I am driven by a deep interest in **cutting-edge technologies** and their impact on the world. In the short term, I aim to gain experience in a major tech company 👨‍💻.
 
 ---
 
