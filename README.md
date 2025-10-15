@@ -1,4 +1,16 @@
-## 👋 Hi, I'm Youssouf
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=0:0f2027,50:203a43,100:2c5364&text=Youssouf%20ONIAN&textBg=false&animation=twinkling&fontColor=d9d9d9&section=header&reversal=false&fontSize=70" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&random=true&width=600&lines=🚀+Passionate+about+Tech+Innovation+%26+Impact;Always+Learning;🔐+Cybersecurity+Enthusiast;👋+Hi%2C+I'm+Youssouf+ONIAN" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 🎓 *Engineering student in Computer Science at ESIROI*  
 🔐 *Passionate about IoT, Cybersecurity, and Software Development*  
