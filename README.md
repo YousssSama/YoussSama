@@ -5,11 +5,8 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&random=true&width=600&lines=🚀+Passionate+about+Tech+Innovation+%26+Impact;Always+Learning;🔐+Cybersecurity+Enthusiast;👋+Hi%2C+I'm+Youssouf+ONIAN" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&random=true&width=435&lines=%F0%9F%9A%80+Passionate+about+Tech+Innovation+%26+Impact;Always+Learning;%F0%9F%94%90+Cybersecurity+Enthusiast++;%F0%9F%91%8B+Hi%2C+I'm+Youssouf+ONIAN" alt="Typing SVG" /></a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&random=true&width=435&lines=%F0%9F%9A%80+Passionate+about+Tech+Innovation+%26+Impact;Always+Learning;%F0%9F%94%90+Cybersecurity+Enthusiast++;%F0%9F%91%8B+Hi%2C+I'm+Youssouf+ONIAN" alt="Typing SVG" /></a>
 
 ---
 
